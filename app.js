@@ -239,7 +239,9 @@ for (let i = 0; i < 20; i++) {
   people.push(personalData);
 }
 
-fs.writeFile('people.json', data, err => {
+const jsonPeople = JSON.stringify(people);
+
+fs.writeFile('people.json', jsonPeople, err => {
   if (err) throw err;
-  console.log('The file has been saved!');
+  console.log('File has been successfully generated! Check people.json');
 });
