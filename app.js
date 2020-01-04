@@ -1,6 +1,6 @@
 const fs = require('fs');
 
-const genders = [M, F];
+const genders = ['M', 'F'];
 console.log('genders:', genders);
 
 const maleNames = [
@@ -214,6 +214,12 @@ const lastNames = [
   'Hayes'
 ];
 console.log('lastNames:', lastNames);
+
+const randChoice = arr => {
+  return arr[Math.floor(Math.random() * arr.length)];
+};
+
+const people = [];
 
 fs.writeFile('people.json', data, err => {
   if (err) throw err;
