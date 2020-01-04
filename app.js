@@ -239,7 +239,9 @@ for (let i = 0; i < 20; i++) {
     Math.random() * (999999999 - 100000000 + 1) + 100000000
   );
 
-  const personalData = { gender, firstName, lastName, age, phone };
+  const email = firstName + '.' + lastName + '@gmail.com';
+
+  const personalData = { gender, firstName, lastName, age, phone, email };
   people.push(personalData);
 }
 
