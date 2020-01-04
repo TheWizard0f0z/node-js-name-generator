@@ -1,142 +1,162 @@
 [
   {
-    "gender": "M",
-    "firstName": "Gabriel",
-    "lastName": "Lopez",
-    "age": 18,
-    "phone": 829763314
-  },
-  {
-    "gender": "M",
-    "firstName": "Nathan",
-    "lastName": "Sanchez",
-    "age": 56,
-    "phone": 693867417
+    "gender": "F",
+    "firstName": "Aria",
+    "lastName": "Rogers",
+    "age": 59,
+    "phone": 457533381,
+    "email": "aria.rogers@gmail.com"
   },
   {
     "gender": "F",
-    "firstName": "Victoria",
-    "lastName": "Hall",
-    "age": 67,
-    "phone": 799000207
-  },
-  {
-    "gender": "F",
-    "firstName": "Lily",
+    "firstName": "Charlotte",
     "lastName": "White",
-    "age": 52,
-    "phone": 365727657
+    "age": 63,
+    "phone": 453326399,
+    "email": "charlotte.white@gmail.com"
   },
   {
     "gender": "M",
-    "firstName": "Christopher",
-    "lastName": "Taylor",
-    "age": 36,
-    "phone": 276621851
-  },
-  {
-    "gender": "M",
-    "firstName": "Benjamin",
-    "lastName": "Anderson",
-    "age": 67,
-    "phone": 479178929
+    "firstName": "Matthew",
+    "lastName": "Diaz",
+    "age": 27,
+    "phone": 105362252,
+    "email": "matthew.diaz@gmail.com"
   },
   {
     "gender": "F",
     "firstName": "Abigail",
-    "lastName": "Baker",
-    "age": 65,
-    "phone": 906300296
-  },
-  {
-    "gender": "F",
-    "firstName": "Isabella",
-    "lastName": "Price",
-    "age": 41,
-    "phone": 273597332
+    "lastName": "Stewart",
+    "age": 32,
+    "phone": 665417456,
+    "email": "abigail.stewart@gmail.com"
   },
   {
     "gender": "M",
-    "firstName": "Owen",
-    "lastName": "Watson",
-    "age": 57,
-    "phone": 504616969
-  },
-  {
-    "gender": "M",
-    "firstName": "Jayden",
-    "lastName": "Torres",
-    "age": 77,
-    "phone": 612741886
-  },
-  {
-    "gender": "F",
-    "firstName": "Camila",
-    "lastName": "Washington",
+    "firstName": "David",
+    "lastName": "Phillips",
     "age": 49,
-    "phone": 109992156
-  },
-  {
-    "gender": "F",
-    "firstName": "Bella",
-    "lastName": "Jones",
-    "age": 19,
-    "phone": 775399996
-  },
-  {
-    "gender": "F",
-    "firstName": "Hazel",
-    "lastName": "Patterson",
-    "age": 19,
-    "phone": 441204742
-  },
-  {
-    "gender": "F",
-    "firstName": "Elizabeth",
-    "lastName": "Ramirez",
-    "age": 19,
-    "phone": 262861818
+    "phone": 563030553,
+    "email": "david.phillips@gmail.com"
   },
   {
     "gender": "F",
     "firstName": "Evelyn",
-    "lastName": "Wright",
-    "age": 65,
-    "phone": 440301045
+    "lastName": "Allen",
+    "age": 26,
+    "phone": 579872363,
+    "email": "evelyn.allen@gmail.com"
   },
   {
     "gender": "F",
-    "firstName": "Claire",
-    "lastName": "Murphy",
+    "firstName": "Violet",
+    "lastName": "Perez",
+    "age": 24,
+    "phone": 672839466,
+    "email": "violet.perez@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Zoe",
+    "lastName": "Green",
     "age": 63,
-    "phone": 811627212
+    "phone": 358953828,
+    "email": "zoe.green@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Olivia",
+    "lastName": "Coleman",
+    "age": 42,
+    "phone": 972791203,
+    "email": "olivia.coleman@gmail.com"
   },
   {
     "gender": "M",
-    "firstName": "Lincoln",
-    "lastName": "Foster",
-    "age": 57,
-    "phone": 670275860
+    "firstName": "John",
+    "lastName": "Coleman",
+    "age": 32,
+    "phone": 708932497,
+    "email": "john.coleman@gmail.com"
   },
   {
-    "gender": "M",
-    "firstName": "Gabriel",
-    "lastName": "Peterson",
-    "age": 56,
-    "phone": 975292562
+    "gender": "F",
+    "firstName": "Ava",
+    "lastName": "Roberts",
+    "age": 26,
+    "phone": 666735188,
+    "email": "ava.roberts@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Sophia",
+    "lastName": "Henderson",
+    "age": 74,
+    "phone": 749890075,
+    "email": "sophia.henderson@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Victoria",
+    "lastName": "Taylor",
+    "age": 30,
+    "phone": 797712331,
+    "email": "victoria.taylor@gmail.com"
+  },
+  {
+    "gender": "F",
+    "firstName": "Lillian",
+    "lastName": "Ward",
+    "age": 69,
+    "phone": 635125218,
+    "email": "lillian.ward@gmail.com"
   },
   {
     "gender": "M",
     "firstName": "Thomas",
-    "lastName": "Anderson",
-    "age": 25,
-    "phone": 471914167
+    "lastName": "Rodriguez",
+    "age": 52,
+    "phone": 501290980,
+    "email": "thomas.rodriguez@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Nathan",
+    "lastName": "Allen",
+    "age": 32,
+    "phone": 482193064,
+    "email": "nathan.allen@gmail.com"
   },
   {
     "gender": "F",
-    "firstName": "Eleanor",
-    "lastName": "Taylor",
-    "age": 60,
-    "phone": 921066836
+    "firstName": "Camila",
+    "lastName": "Wright",
+    "age": 35,
+    "phone": 575774049,
+    "email": "camila.wright@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Noah",
+    "lastName": "Gonzales",
+    "age": 73,
+    "phone": 490129923,
+    "email": "noah.gonzales@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Ethan",
+    "lastName": "Watson",
+    "age": 31,
+    "phone": 454706547,
+    "email": "ethan.watson@gmail.com"
+  },
+  {
+    "gender": "M",
+    "firstName": "Dylan",
+    "lastName": "Turner",
+    "age": 49,
+    "phone": 698630274,
+    "email": "dylan.turner@gmail.com"
   }
 ]
