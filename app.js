@@ -235,7 +235,11 @@ for (let i = 0; i < 20; i++) {
 
   const age = Math.floor(Math.random() * (78 - 18 + 1) + 18);
 
-  const personalData = { gender, firstName, lastName, age };
+  const phone = Math.floor(
+    Math.random() * (999999999 - 100000000 + 1) + 100000000
+  );
+
+  const personalData = { gender, firstName, lastName, age, phone };
   people.push(personalData);
 }
 

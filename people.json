@@ -1,22 +1,142 @@
 [
-  { "gender": "F", "firstName": "Scarlett", "lastName": "Simmons", "age": 42 },
-  { "gender": "M", "firstName": "James", "lastName": "Ross", "age": 62 },
-  { "gender": "F", "firstName": "Mila", "lastName": "Allen", "age": 58 },
-  { "gender": "F", "firstName": "Riley", "lastName": "Washington", "age": 29 },
-  { "gender": "M", "firstName": "Carter", "lastName": "Bryant", "age": 51 },
-  { "gender": "M", "firstName": "Owen", "lastName": "Watson", "age": 23 },
-  { "gender": "F", "firstName": "Zoey", "lastName": "Gonzales", "age": 75 },
-  { "gender": "F", "firstName": "Mila", "lastName": "Hayes", "age": 64 },
-  { "gender": "M", "firstName": "Daniel", "lastName": "Baker", "age": 43 },
-  { "gender": "M", "firstName": "Jack", "lastName": "Diaz", "age": 25 },
-  { "gender": "F", "firstName": "Riley", "lastName": "Taylor", "age": 32 },
-  { "gender": "F", "firstName": "Elizabeth", "lastName": "Cox", "age": 48 },
-  { "gender": "M", "firstName": "Grayson", "lastName": "Martinez", "age": 64 },
-  { "gender": "M", "firstName": "Grayson", "lastName": "Hall", "age": 19 },
-  { "gender": "F", "firstName": "Ellie", "lastName": "Adams", "age": 42 },
-  { "gender": "F", "firstName": "Harper", "lastName": "Morgan", "age": 38 },
-  { "gender": "M", "firstName": "Benjamin", "lastName": "Baker", "age": 39 },
-  { "gender": "F", "firstName": "Lillian", "lastName": "James", "age": 23 },
-  { "gender": "F", "firstName": "Ella", "lastName": "Turner", "age": 28 },
-  { "gender": "F", "firstName": "Olivia", "lastName": "Ross", "age": 28 }
+  {
+    "gender": "M",
+    "firstName": "Gabriel",
+    "lastName": "Lopez",
+    "age": 18,
+    "phone": 829763314
+  },
+  {
+    "gender": "M",
+    "firstName": "Nathan",
+    "lastName": "Sanchez",
+    "age": 56,
+    "phone": 693867417
+  },
+  {
+    "gender": "F",
+    "firstName": "Victoria",
+    "lastName": "Hall",
+    "age": 67,
+    "phone": 799000207
+  },
+  {
+    "gender": "F",
+    "firstName": "Lily",
+    "lastName": "White",
+    "age": 52,
+    "phone": 365727657
+  },
+  {
+    "gender": "M",
+    "firstName": "Christopher",
+    "lastName": "Taylor",
+    "age": 36,
+    "phone": 276621851
+  },
+  {
+    "gender": "M",
+    "firstName": "Benjamin",
+    "lastName": "Anderson",
+    "age": 67,
+    "phone": 479178929
+  },
+  {
+    "gender": "F",
+    "firstName": "Abigail",
+    "lastName": "Baker",
+    "age": 65,
+    "phone": 906300296
+  },
+  {
+    "gender": "F",
+    "firstName": "Isabella",
+    "lastName": "Price",
+    "age": 41,
+    "phone": 273597332
+  },
+  {
+    "gender": "M",
+    "firstName": "Owen",
+    "lastName": "Watson",
+    "age": 57,
+    "phone": 504616969
+  },
+  {
+    "gender": "M",
+    "firstName": "Jayden",
+    "lastName": "Torres",
+    "age": 77,
+    "phone": 612741886
+  },
+  {
+    "gender": "F",
+    "firstName": "Camila",
+    "lastName": "Washington",
+    "age": 49,
+    "phone": 109992156
+  },
+  {
+    "gender": "F",
+    "firstName": "Bella",
+    "lastName": "Jones",
+    "age": 19,
+    "phone": 775399996
+  },
+  {
+    "gender": "F",
+    "firstName": "Hazel",
+    "lastName": "Patterson",
+    "age": 19,
+    "phone": 441204742
+  },
+  {
+    "gender": "F",
+    "firstName": "Elizabeth",
+    "lastName": "Ramirez",
+    "age": 19,
+    "phone": 262861818
+  },
+  {
+    "gender": "F",
+    "firstName": "Evelyn",
+    "lastName": "Wright",
+    "age": 65,
+    "phone": 440301045
+  },
+  {
+    "gender": "F",
+    "firstName": "Claire",
+    "lastName": "Murphy",
+    "age": 63,
+    "phone": 811627212
+  },
+  {
+    "gender": "M",
+    "firstName": "Lincoln",
+    "lastName": "Foster",
+    "age": 57,
+    "phone": 670275860
+  },
+  {
+    "gender": "M",
+    "firstName": "Gabriel",
+    "lastName": "Peterson",
+    "age": 56,
+    "phone": 975292562
+  },
+  {
+    "gender": "M",
+    "firstName": "Thomas",
+    "lastName": "Anderson",
+    "age": 25,
+    "phone": 471914167
+  },
+  {
+    "gender": "F",
+    "firstName": "Eleanor",
+    "lastName": "Taylor",
+    "age": 60,
+    "phone": 921066836
+  }
 ]
