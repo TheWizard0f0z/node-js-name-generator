@@ -215,23 +215,20 @@ const lastNames = [
 ];
 console.log('lastNames:', lastNames);
 
+const people = [];
+
+const ages = { min: 18, max: 78 };
+const phones = { min: 100000000, max: 999999999 };
+
 const randChoice = arr => {
   return arr[Math.floor(Math.random() * arr.length)];
 };
 
-const randChoiceAge = (min, max) => {
-  min = Math.ceil(18);
-  max = Math.floor(78);
+const randChoiceNum = ({ min, max }) => {
+  min = Math.ceil(min);
+  max = Math.floor(max);
   return Math.floor(Math.random() * (max - min + 1)) + min;
 };
-
-const randChoicePhone = (min, max) => {
-  min = Math.ceil(100000000);
-  max = Math.floor(999999999);
-  return Math.floor(Math.random() * (max - min + 1)) + min;
-};
-
-const people = [];
 
 for (let i = 0; i < 20; i++) {
   const gender = randChoice(genders);
@@ -245,9 +242,9 @@ for (let i = 0; i < 20; i++) {
 
   const lastName = lastNames[Math.floor(Math.random() * lastNames.length)];
 
-  const age = randChoiceAge();
+  const age = randChoiceNum(ages);
 
-  const phone = randChoicePhone();
+  const phone = randChoiceNum(phones);
 
   const email =
     firstName.toLowerCase() + '.' + lastName.toLowerCase() + '@gmail.com';
